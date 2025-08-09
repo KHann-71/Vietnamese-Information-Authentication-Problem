@@ -1,3 +1,7 @@
+
+![Logo](https://cdn-ckfjm.nitrocdn.com/towyAoJaLSzAqWLbduPFHfHYUnjGziVx/assets/images/optimized/rev-29a8f61/www.lindau-nobel.org/wp-content/uploads/2018/05/Fact-Checking.jpg)
+
+
 # Vietnamese Information Authentication Problem
 
 ## 1. Introduction
