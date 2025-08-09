@@ -89,3 +89,4 @@ pip install -r requirements.txt
 - Dang et al., 2024 – ViWikiFC: A Vietnamese Wikipedia-based Dataset for Fact Verification.
 - Tran et al., 2025 – ViFactCheck: A New Benchmark Dataset for Multi-domain News Fact-checking in Vietnamese.
 
+---
