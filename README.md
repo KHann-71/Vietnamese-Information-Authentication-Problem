@@ -82,5 +82,18 @@ cd Vietnamese-Information-Authentication-Problem
 # Install dependencies
 pip install -r requirements.txt
 
-# Run PhoBERT + BM25 pipeline
-python src/ie_403_fi3.py
+.
+├── notebooks/          # Jupyter notebooks for experiments
+├── src/                # Source code for evidence retrieval & classification
+├── requirements.txt    # Python dependencies
+├── README.md           # Project documentation
+└── LICENSE
+
+---
+
+If you replace your current `README.md` with this Markdown, your GitHub page will look much more professional and will include **all model results**, not just PhoBERT.  
+
+Do you want me to also **add the dataset download links and usage example for all models**, so readers can easily reproduce your results? That would make the README even more complete.
+
+
+
